@@ -1,2 +1,2 @@
 # git-github
-Tests on git and github
+This is for purposes of Testing on git and github
